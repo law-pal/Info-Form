@@ -4,7 +4,8 @@ class Form extends Component {
     constructor() {
         super()
         this.state = {
-            
+            username: '',
+            password: '',
         }
     }
 
