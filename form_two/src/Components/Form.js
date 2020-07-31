@@ -6,6 +6,9 @@ class Form extends Component {
         this.state = {
             username: '',
             password: '',
+            age: '',
+            gender: '',
+            ocupation: ''
         }
     }
 
